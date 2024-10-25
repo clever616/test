@@ -1,0 +1,1 @@
+export const ELEMENT = 'h1, h2, h3, p, div, span';

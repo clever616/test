@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "puppeteer": "^23.6.0"
+  }
+}
